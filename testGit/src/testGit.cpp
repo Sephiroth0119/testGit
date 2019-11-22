@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	printf("Hello Github!");
-
+	printf("Hello Github!\n");
+	printf("now is 09:28\n");
 	return 0;
 }
