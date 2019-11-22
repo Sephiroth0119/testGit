@@ -16,6 +16,8 @@ int main() {
 	printf("now is 09:28\n");
 	printf("now is 09:36\n");
 	printf("now is 09:52\n");
+	printf("i fixed one bug\n");
+
 
 	return 0;
 }
