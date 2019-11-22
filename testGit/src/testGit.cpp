@@ -15,5 +15,7 @@ int main() {
 	printf("Hello Github!\n");
 	printf("now is 09:28\n");
 	printf("now is 09:36\n");
+	printf("now is 09:52\n");
+
 	return 0;
 }
